@@ -1,6 +1,6 @@
 # DataCrawlingScrapping
 ## 프로젝트 설명
-- BeautifulSoup : HTML 태그에서 데이터 추출.
+- BeautifulSoup : HTML 태그에서 필요한 정보 추출.
 - webdriver(Selenium 라이브러리) : 크롬 웹브라우저 제어.
 - 크롤링 데이터는 엑셀파일로 저장
 
