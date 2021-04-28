@@ -8,10 +8,10 @@
 ## 프로젝트의 대상
 - 네이버 주식, 인스타, 다나와 쇼핑, 코로나 통계, 인터넷 강의 댓글
 
-## 활용 언어, 라이브러리
+## 환경
+- IDE : JupyterNotebook
 - 언어 : Python3
-- 라이브러리1 : BeautifulSoup : HTML 태그에서 필요한 정보 추출.
-- 라이브러리2 : webdriver(Selenium 라이브러리) : 크롬 웹브라우저 제어.
+- 라이브러리1 : BeautifulSoup(HTML 태그에서 필요한 정보 추출), webdriver(Selenium 라이브러리_크롬 웹브라우저 제어)
 
 ## Release
 |기능|도구|예시|
