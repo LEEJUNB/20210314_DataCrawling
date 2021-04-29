@@ -13,8 +13,8 @@
 
 ## 환경
 - IDE : JupyterNotebook
-- 언어 : Python3
-- 라이브러리1 : BeautifulSoup(HTML 태그에서 필요한 정보 추출), webdriver(Selenium 라이브러리_크롬 웹브라우저 제어)
+- Language : Python3
+- Library : BeautifulSoup(HTML 태그에서 필요한 정보 추출), webdriver(Selenium 라이브러리_크롬 웹브라우저 제어)
 
 ## 주의사항
 특정사이트에서 짧은 시간 동안 많은 데이터를 수집할시 디도스 공격 등으로 감지되거나 웹 서버에 무리를 줄 수 있음.
