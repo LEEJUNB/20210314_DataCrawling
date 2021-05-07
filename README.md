@@ -2,7 +2,7 @@
 ## 프로젝트의 목표 및 순서
 * 목표 : 크롤링, 스크래핑 기술 습득
 - 정형, 비정형 데이터를 효과적으로 수집 저장
-- Next Step. 전처리, WordCloud, Mapping, plotting 등으로 시각화, 각 변수들 간의 상관관계를 파악
+- Next Step. 전처리, 시각화(WordCloud, Mapping, plotting 등), 각 변수들 간의 상관관계를 파악
 
 ## 데이터 수집 대상
 - 네이버 : 주식, 모바일 View, 이미지
